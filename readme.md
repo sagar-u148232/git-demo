@@ -1,2 +1,2 @@
 # Demo Git Repository
-This is the test file - updated 1
+This is the test file - updated
