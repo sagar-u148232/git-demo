@@ -1,0 +1,8 @@
+cd ~
+cd .ssh
+mkdir .ssh
+cd .ssh
+pwd
+ssh-keygen -t rsa -C "sagar.bakare@wns.com"
+mate id_rsa.pub
+ssh -T git@github.com
